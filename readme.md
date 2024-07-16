@@ -1,4 +1,4 @@
-## Hi there, I'm [Your Name]! 👋
+## Hi there, I'm Diego Vega Rodríguez 👋
 
 ---
 
@@ -6,9 +6,7 @@
 
 I am a [software developer] with a passion. I enjoy working on challenging projects and learning new technologies.
 
-- 🔭 I’m currently working on [Current Project]
 - 🌱 I’m currently learning [Learning Topic]
-- 👯 I’m looking to collaborate on [Collaboration Project]
 - 💬 Ask me about [Topics of Expertise]
 - 📫 How to reach me: [Your Email]
 
