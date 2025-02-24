@@ -3,13 +3,11 @@
 ---
 
 ### 👨🏻‍💻 About Me
+I am a passionate and results-driven software engineer with a strong focus on full-stack development, specializing in building scalable and responsive web applications. With deep expertise in JavaScript/TypeScript, React, and Node.js, I design and implement robust frontend and backend solutions that prioritize performance, user experience, and maintainability.
 
-I am a [software developer] with a passion. I enjoy working on challenging projects and learning new technologies.
+While I have extensive experience in integrating OAuth with Google and Facebook, configuring AWS Cognito for secure authentication, and leveraging Docker to streamline development and deployment workflows, my core strength lies in creating seamless, high-performance user interfaces and ensuring that applications are optimized for scalability.
 
-- 🌱 I’m currently learning [Learning Topic]
-- 💬 Ask me about [Topics of Expertise]
-- 📫 How to reach me: [Your Email]
-
+In addition to my frontend expertise, I have hands-on experience with backend technologies like Node.js, Python (FastAPI), and Android development (Kotlin, Java), ensuring that I can deliver end-to-end solutions with an emphasis on clean, efficient code and effective collaboration with cross-functional teams.
 ---
 
 ### 🛠️ Languages and Tools:
